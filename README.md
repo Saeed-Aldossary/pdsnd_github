@@ -7,7 +7,7 @@
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
+python project
 
 ### Files used
 1-chicago.csv
