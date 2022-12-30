@@ -46,8 +46,11 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-def popular()
+def pop();
 print("hi")
+
+def gender();
+print('gender')
 
 def load_data(city, month, day):
     """
