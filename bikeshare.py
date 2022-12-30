@@ -46,11 +46,13 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-def pop();
+def pop():
 print("hi")
 
-def gender();
+def gender():
 print('gender')
+
+def name():
 
 def load_data(city, month, day):
     """
